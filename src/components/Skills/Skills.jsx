@@ -3,11 +3,12 @@ import style from "./Skills.module.css";
 import { GrReactjs, GrNode } from "react-icons/gr";
 import {
   SiHtml5,
-  SiCss3,
+  SiExpress,
   SiRedux,
   SiPostgresql,
-  SiTypescript,
   SiJavascript,
+  SiPython,
+  SiDjango,
 } from "react-icons/si";
 
 const Skills = () => {
@@ -19,19 +20,11 @@ const Skills = () => {
           <div className={style.boxContent}>
             <span className={style.icons}>
               <SiHtml5 />
-              <p>HTML</p>
-            </span>
-            <span className={style.icons}>
-              <SiCss3 />
-              <p>CSS</p>
+              <p>HTML / CSS</p>
             </span>
             <span className={style.icons}>
               <SiJavascript />
               <p>Javascript</p>
-            </span>
-            <span className={style.icons}>
-              <SiTypescript />
-              <p>Typescript</p>
             </span>
             <span className={style.icons}>
               <GrReactjs />
@@ -46,8 +39,20 @@ const Skills = () => {
               <p>Node JS</p>
             </span>
             <span className={style.icons}>
+              <SiExpress />
+              <p>Express</p>
+            </span>
+            <span className={style.icons}>
               <SiPostgresql />
               <p>Postgre SQL</p>
+            </span>
+            <span className={style.icons}>
+              <SiPython />
+              <p>Python</p>
+            </span>
+            <span className={style.icons}>
+              <SiDjango />
+              <p>Django</p>
             </span>
           </div>
         </div>

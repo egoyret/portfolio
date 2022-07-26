@@ -8,7 +8,7 @@ const Footer = () => {
   console.log("Hey curious, what are you doing here? :)");
   return (
     <div className={style.footerContainer}>
-      <p>
+      {/* <p>
         <BiCodeAlt />
         &ensp;with&ensp;
         <AiFillHeart /> by{" "}
@@ -16,6 +16,9 @@ const Footer = () => {
           Lucas Barallobre
         </a>{" "}
         using <DiReact />
+      </p> */}
+      <p>
+        Credits: Porfolio designed and coded by Lucas Baralobre using <DiReact />
       </p>
     </div>
   );

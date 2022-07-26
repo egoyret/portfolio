@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from "react";
 import style from "./Navbar.module.css";
-import Logo from "../../assets/img/logo.svg";
+// import Logo from "../../assets/img/logo.svg";
+import Logo from "../../assets/img/home-thumbnail.png";
 import { Link } from "react-scroll";
 import { animateScroll as scroll } from "react-scroll";
 
 const Navbar = () => {
   return (
     <div className={style.navContainer}>
-      <img onClick={() => scroll.scrollToTop()} src={Logo} alt="Logo" />
+      
+      <img onClick={() => scroll.scrollToTop()} src={Logo} alt="Logo" /> 
+      
       <nav>
         <ul>
           <li>

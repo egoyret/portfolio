@@ -12,15 +12,15 @@ const Card = () => {
         <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; constructor() </p>
         <p>
           3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "{" "}
-          <b>Lucas Barallobre</b>;
+          <b>Enrique Goyret</b>;
         </p>
         <p>
           4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.traits = ["
-          <b>Developer</b>", "<b>Design</b>"];
+          <b>Developer</b>", "<b>Backend</b>"];
         </p>
         <p>
           5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = new
-          Date().getFullYear() - 1998;
+          Date().getFullYear() - 1953;
         </p>
         <p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "}"</p>
         <p>7&nbsp;&nbsp; "}"</p>
