@@ -15,7 +15,8 @@ const About = () => {
               after an intensive 4 month bootcamp course, where I incorporated knowledge and 
               practice on current web technologies such as HTML5, CSS3, Javascript, NodeJS, 
               React, Redux, Express, Sequelize, and others to my prior expertise and experience 
-              with IT systems. Plus on my last job I learned Python and Django as well.<br></br>
+              with IT systems. I currently work as a backend engineer using Python and Django
+              which I learned on the job.<br></br>
               Recently retired from a large multinational company, I'm looking to continue in 
               the job market now as a software engineer which has always been my favorite role, 
               as it demands creativity, ingenuity, and has a direct impact in process improvement 
@@ -24,7 +25,7 @@ const About = () => {
               value to my role as a developer team member and thus can contribute to the success 
               of any project. <br></br>
               I have an analytical mind and enjoy solving complex problems. I am more than willing 
-              to immerse myself in the world of internet as a developer with end user criteria no 
+              to continue my journey in the world of internet as a developer with end user criteria no 
               just as a coder. I have a preference for working with databases and as a backend 
               engineer but would not mind helping with front end work also.
             </p>

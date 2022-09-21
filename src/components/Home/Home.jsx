@@ -20,14 +20,14 @@ const Home = () => {
             </a>
           </button>
           <div className={style.icons}>
-            <a href="https://github.com/lucasbara" target="_blank">
+            <a href="https://github.com/egoyret" target="_blank">
               <BsGithub />
             </a>
-            <a href="https://wa.me/541141632401" target="_blank">
+            <a href="https://wa.me/541140609885" target="_blank">
               <BsWhatsapp />
             </a>
             <a
-              href="https://www.linkedin.com/in/lucas-barallobre/"
+              href="https://www.linkedin.com/in/enrique-goyret/"
               target="_blank"
             >
               <BsLinkedin />

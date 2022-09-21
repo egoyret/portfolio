@@ -1,22 +1,22 @@
-import pokemon from "../../assets/img/project_pokemon.png";
-import medicalHub from "../../assets/img/project_medicalhub.png";
+import food from "../../assets/img/food.jpeg";
+import Merceria from "../../assets/img/Merceria.png";
 
 const info = [
   {
-    title: "Pokemon API",
+    title: "Food API",
     description:
-      "Pokémon API is a full stack web development, where you can find existing pokemons and create new ones. You can also be able to filter the pokemon by type, and order it.",
-    image: pokemon,
-    url: "https://the-poke-api.netlify.app/",
-    github: "https://github.com/lucasbara/pipokemon",
+      "Web site created using create-react-app. This was the individual project I had to develop all on my own (front and back end), during my training course at Henry academy. It´s food recipes app which allows sorting and filtering data brought from an external API and from a local database where the user can create and store his own recipes, and show detail of same.. All technologies learned where used: Node JS, React, Redux, Express, Sequelize, Postgres DB.",
+    image: food,
+    url: "https://pi-food-beta.vercel.app/",
+    github: "https://github.com/egoyret/PI-Food-FT14a",
   },
   {
-    title: "Medical Hub",
+    title: "E-commerce haberdashery",
     description:
-      "Medical HUB is an aplication, where you can request and manage your medical appointments.",
-    image: medicalHub,
-    url: "#",
-    github: "https://github.com/lucasbara/medical-hub-pf",
+      "This was the final group project developed at Henry's bootcamp: e-commerce on-line haberdashery",
+    image: Merceria,
+    url: "https://pg-merceria-online.vercel.app/",
+    github: "https://github.com/egoyret/PG_MerceriaOnline",
   },
 ];
 
