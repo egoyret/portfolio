@@ -33,9 +33,11 @@ const Contact = () => {
       .then(
         (result) => {
           console.log("Sucess");
+          alert("Message sent")
         },
         (error) => {
           console.log("EmailJS", error.text);
+          alert("Error: message NOT sent")
         }
       );
   };
