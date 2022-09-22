@@ -57,7 +57,7 @@
   padding: 0.8em;
   border: none;
   border-radius: 0.4em;
-  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+  background-image: linear-gradient(-20deg, #2125ff 0%, #21d4fd 100%);
   font-weight: 500;
   font-family: "Montserrat", sans-serif;
 }
@@ -72,7 +72,7 @@ a {
   cursor: auto;
   cursor: pointer;
   transition: 1s;
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #21d4fd 0%, #fbfcdb 100%);
   color: #0000;
   -webkit-animation-name: pulse;
   animation-name: pulse;
@@ -93,7 +93,7 @@ a:hover {
 
 .icons a {
   margin-right: 2rem;
-  color: #6d83f2;
+  color: #219afd;
   font-size: 1.4rem;
 }
 

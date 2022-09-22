@@ -10,10 +10,9 @@
 }
 
 img {
-  max-width: 800px;
-  max-height: 600px;
-  margin: 0rem 1.5rem;
-  margin-top: 10px;
+  width: 250px;
+  height: 150px;
+  margin: 0rem;
 }
 
 img:hover {
