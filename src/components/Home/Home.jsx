@@ -3,7 +3,7 @@ import style from "./Home.module.css";
 import Card from "./Card.jsx";
 import Navbar from "../Navbar/Navbar.jsx";
 import { BsGithub, BsLinkedin, BsWhatsapp } from "react-icons/bs";
-import Resume from "../../assets/Resume Enrique Goyret 2021 EN v4.pdf";
+import Resume from "../../assets/Resume Enrique Goyret 2024 EN v5.pdf";
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
         <div className={style.textLeft}>
           <p>Hello, I'm</p>
           <h1>Enrique Goyret</h1>
-          <p className={style.subTitle}>Full Stack Web Developer</p>
+          <p className={style.subTitle}>Full Stack Web Developer and Python software engineer</p>
           <button>
             <a href={Resume} target="_blank">
               Download Resume
